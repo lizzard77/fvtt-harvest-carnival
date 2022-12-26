@@ -1,0 +1,31 @@
+{
+  "title": "My Content Module",
+  "description": "An Adventure by Preston Luhman",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "My Name",
+      "discord": "MyDiscordUsername#42",
+      "url": "https://www.mywebsite.com/",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "0.8.6",
+    "verified": "10"
+  },
+  "packs": [
+    {
+      "name": "module-adventures",
+      "label": "Adventure",
+      "path": "packs/adventures.db",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip",
+  "id": "harvest-carnival"
+}
