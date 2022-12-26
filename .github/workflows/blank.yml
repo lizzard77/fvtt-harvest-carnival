@@ -17,7 +17,6 @@ jobs:
         uses: battila7/get-version-action@v2
 
       - name: Create zip archive
-        working-directory: dist
         run: zip -r ./harvest-carnival.zip module.json *.png *.jpg *.webp *.pdf packs/
 
       - name: Update release with files
