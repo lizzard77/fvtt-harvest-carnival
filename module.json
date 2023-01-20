@@ -24,7 +24,7 @@
       "flags": {}
     }
   ],
-  "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip",
+  "manifest": "https://github.com/lizzard77/fvtt-harvest-carnival/releases/download/latest/module.json",
+  "download": "https://github.com/lizzard77/fvtt-harvest-carnival/releases/download/latest/harvest-carnival.zip",
   "id": "harvest-carnival"
 }
