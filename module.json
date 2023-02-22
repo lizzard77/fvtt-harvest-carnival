@@ -1,7 +1,7 @@
 {
   "title": "The Harvest Carnival",
   "description": "An Adventure by Preston Luhman",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Preston Luhman",
@@ -10,7 +10,7 @@
     }
   ],
   "compatibility": {
-    "minimum": "0.8.6",
+    "minimum": "10",
     "verified": "10"
   },
   "packs": [
