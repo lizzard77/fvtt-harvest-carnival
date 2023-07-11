@@ -1,7 +1,11 @@
 {
+  "id": "harvest-carnival",
   "title": "The Harvest Carnival",
   "description": "An Adventure by Preston Luhman",
-  "version": "1.0.2",
+  "version": "#{VERSION}#",
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
   "authors": [
     {
       "name": "Preston Luhman",
@@ -23,8 +27,5 @@
       "private": false,
       "flags": {}
     }
-  ],
-  "manifest": "https://github.com/lizzard77/fvtt-harvest-carnival/releases/download/latest/module.json",
-  "download": "https://github.com/lizzard77/fvtt-harvest-carnival/releases/download/latest/harvest-carnival.zip",
-  "id": "harvest-carnival"
+  ]
 }
